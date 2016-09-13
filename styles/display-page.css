@@ -23,9 +23,11 @@ main {
 	width: 33.33%;
 	height: 300px;
 }
+
 .green {
   background-color: green;
 }
+
 .blue {
   background-color: blue;
 }
